@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+
+gem 'kramdown'
+gem 'pygments.rb'
+gem 'liquid'
+gem 'maruku'
+gem 'rdiscount'
+gem 'redcarpet'
+gem 'RedCloth'
+gem 'jemoji'
+gem 'jekyll-mentions'
+gem 'jekyll-redirect-from'
+gem 'jekyll-sitemap'
