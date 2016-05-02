@@ -16,3 +16,10 @@ highlighter: pygments
 gems:
   - jekyll-redirect-from
   - jekyll-sitemap
+
+# Exclude these files from your production _site
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
